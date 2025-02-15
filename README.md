@@ -28,8 +28,8 @@ This report provides comprehensive insights into user participation and enrollme
 - **Dashboard Link:** https://1drv.ms/u/c/0c31997b4c1e9f35/Eb0g3AzStGhIlqklpl1-65YB_IKrFn6sf9uqLSUVMpe6gQ?e=ERXoxM 
 
 ## Datasets Overview
-- **User Dataset:** 27,527 records with columns such as Preferred Sponsors, Gender, Country, Degree, Sign-up Date, City, and Social Media Origin.
-- **Opportunity-wise Dataset:** 20,323 records covering Opportunity ID, Category, End Date, Gender, Location, Major, Status, Apply Date, Reward Amount, and Skills Earned.
+- **User Dataset:** 27,527 records with columns covering PreferredSponsors, Gender, Country, Degree, Sign Up Date and Time, City, isFromSocialMedia
+- **Opportunity-wise Dataset:** 20,323 records with columns covering Profile Id, Opportunity Id, Opportunity name, Opportunity category, Opportunity end date and time, Gender, City, State, Country, Graduation date(YYYY MM), Current student status, Current/Intended major, Status description, Apply date and time, Opportunity start date and time, Reward amount, Badge Id, Badge name, Skill points earned, Skills earned
 
 ## Data Cleaning Process
 ### User Data
@@ -70,7 +70,7 @@ This report provides comprehensive insights into user participation and enrollme
 ## Conclusion
 This analysis provides valuable insights into Excelerate’s user engagement and opportunity enrollment trends. Strategic actions such as improving gender diversity, expanding outreach, and refining content offerings will help maximize the platform's impact and future growth.
 
-![Screenshot 2025-02-15 183504](https://github.com/user-attachments/assets/9cc3ed69-af49-4de6-bc87-831b17616dba)
+![Screenshot 2025-02-15 195334](https://github.com/user-attachments/assets/1a9de1e6-750e-4cf1-bd54-700895ee5158)
 
 ![Screenshot 2025-02-15 163425](https://github.com/user-attachments/assets/3cbbe0fe-9534-45c2-8c9c-10f53bf21c2f) 
 
