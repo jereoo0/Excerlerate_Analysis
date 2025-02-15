@@ -35,10 +35,9 @@ This report provides comprehensive insights into user participation and enrollme
 ### User Data
 - Removed duplicates and formatted date/time fields.
 - Standardized city names and corrected mismatched country data.
-- Removed invalid ZIP codes and irrelevant empty records.
 
 ### Opportunity Data
-- Standardized date/time formats and removed duplicate records.
+- Corrected date/time formats and removed duplicate records.
 - Corrected misspellings in city names and resolved country mismatches.
 
 ## Key Questions Addressed
