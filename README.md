@@ -13,8 +13,6 @@ This report provides a comprehensive analysis of user participation and opportun
 - [Key Findings](#key-findings)
 - [Recommendations](#recommendations)
 - [Conclusion](#conclusion)
-- [Repository Contents](#repository-contents)
-- [How to Use This Repository](#how-to-use-this-repository)
 - [Contact](#contact)
 
 ## Overview
@@ -26,7 +24,7 @@ This report provides comprehensive insights into user participation and enrollme
 ## Data Sources and Methodology
 - **Data Sources:** [Excelerate Data](https://engage.4excelerate.org/mod/assign/view.php?id=20052)
 - **Analysis Tools:** Google Sheets, Power BI
-- **Datasets Used:** User Data, Opportunity-wise Data
+- **Datasets Used:** [`User_Data.csv`](#), [`Opportunity_Data.csv`](#)
 - **Dashboard Link:** [Excelerate Dashboard.pbix](#)
 
 ## Datasets Overview
@@ -73,8 +71,6 @@ This report provides comprehensive insights into user participation and enrollme
 ## Conclusion
 This analysis provides valuable insights into Excelerate’s user engagement and opportunity enrollment trends. Strategic actions such as improving gender diversity, expanding outreach, and refining content offerings will help maximize the platform's impact and future growth.
 
-## Repository Contents
-- **Report Document:** [`Excelerate_User_Analysis.pdf`](#)
-- **Power BI Dashboard:** [`Excelerate_Dashboard.pbix`](#)
-- **Data Files:** [`User_Data.csv`](#), [`Opportunity_Data.csv`](#)
+## Contact
+For inquiries, reach out to me @jeremyasamoah123@gmail.com. 
 
