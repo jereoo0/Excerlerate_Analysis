@@ -24,8 +24,8 @@ This report provides comprehensive insights into user participation and enrollme
 ## Data Sources and Methodology
 - **Data Sources:** [Excelerate Data](https://engage.4excelerate.org/mod/assign/view.php?id=20052)
 - **Analysis Tools:** Google Sheets, Power BI
-- **Datasets Used:** [Opprtunity Data]https://docs.google.com/spreadsheets/d/1P3dnXnI5BMkyCgmHQrIKEzlM-NQW0HIQzHEn-q6OTQY/edit?usp=sharing,[User Data] https://docs.google.com/spreadsheets/d/1srVuN2re-WXXSHsvZmdSXHoKKDJl_djUsbqIOXBDvYA/edit?usp=drive_link 
-- **Dashboard Link:** [Dashboard] https://1drv.ms/u/c/0c31997b4c1e9f35/Eb0g3AzStGhIlqklpl1-65YB_IKrFn6sf9uqLSUVMpe6gQ?e=ERXoxM 
+- **Datasets Used:** https://docs.google.com/spreadsheets/d/1P3dnXnI5BMkyCgmHQrIKEzlM-NQW0HIQzHEn-q6OTQY/edit?usp=sharing, https://docs.google.com/spreadsheets/d/1srVuN2re-WXXSHsvZmdSXHoKKDJl_djUsbqIOXBDvYA/edit?usp=drive_link 
+- **Dashboard Link:** https://1drv.ms/u/c/0c31997b4c1e9f35/Eb0g3AzStGhIlqklpl1-65YB_IKrFn6sf9uqLSUVMpe6gQ?e=ERXoxM 
 
 ## Datasets Overview
 - **User Dataset:** 27,527 records with columns such as Preferred Sponsors, Gender, Country, Degree, Sign-up Date, City, and Social Media Origin.
@@ -70,7 +70,7 @@ This report provides comprehensive insights into user participation and enrollme
 ## Conclusion
 This analysis provides valuable insights into Excelerate’s user engagement and opportunity enrollment trends. Strategic actions such as improving gender diversity, expanding outreach, and refining content offerings will help maximize the platform's impact and future growth.
 
-![Screenshot 2025-02-15 162927](https://github.com/user-attachments/assets/6c839106-8fb5-41b2-ad8b-7ddb39e3146c)
+![Screenshot 2025-02-15 183504](https://github.com/user-attachments/assets/9cc3ed69-af49-4de6-bc87-831b17616dba)
 
 ![Screenshot 2025-02-15 163425](https://github.com/user-attachments/assets/3cbbe0fe-9534-45c2-8c9c-10f53bf21c2f) 
 
