@@ -22,7 +22,7 @@ Excelerate is an experiential learning platform established in 2022, offering pe
 This report provides comprehensive insights into user participation and enrollment onto opportunities on the Excelerate platform. It includes an interactive dashboard showcasing key demographic insights, user engagement trends, and segmentation, enabling stakeholders to make data-driven decisions.
 
 ## Data Sources and Methodology
-- **Data Sources:** [Excelerate Data](https://engage.4excelerate.org/mod/assign/view.php?id=20052)
+- **Data Sources:** [Excelerate](https://engage.4excelerate.org/mod/assign/view.php?id=20052)
 - **Analysis Tools:** Google Sheets, Power BI
 - **Datasets Used:** <a href="https://docs.google.com/spreadsheets/d/1P3dnXnI5BMkyCgmHQrIKEzlM-NQW0HIQzHEn-q6OTQY/edit?usp=sharing">Opportunity Data</a>
                      <a href="https://docs.google.com/spreadsheets/d/1srVuN2re-WXXSHsvZmdSXHoKKDJl_djUsbqIOXBDvYA/edit?usp=drive_link">User Data</a> 
