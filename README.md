@@ -90,20 +90,22 @@ This report provides comprehensive insights into user participation and enrollme
 ## Conclusion
 This analysis provides valuable insights into Excelerate’s user engagement and opportunity enrollment trends. Strategic actions such as improving gender diversity, intensifying social media campaigns, and refining content offerings will help maximize the platform's impact and future growth.
 
+
+**Introduction to Excleterate User and Opportunity Analysis**
 ![Screenshot 2025-02-15 195334](https://github.com/user-attachments/assets/1a9de1e6-750e-4cf1-bd54-700895ee5158)
-                      **Introduction to Excleterate User and Opportunity Analysis**
-
+                      
+ **Opportunities by Demographics**
 ![Screenshot 2025-02-15 163425](https://github.com/user-attachments/assets/3cbbe0fe-9534-45c2-8c9c-10f53bf21c2f) 
-                                 **Opportunities by Demographics**
 
+ **Opportunities Analysis**                                
 ![Screenshot 2025-02-15 163446](https://github.com/user-attachments/assets/4ab22404-b894-4b4c-a8a4-a9d09c30961a)
-                                      **Opportunities Analysis**
-
+                                     
+**Dates**
 ![Screenshot 2025-02-15 163547](https://github.com/user-attachments/assets/831e07ef-4230-4bc3-938f-1fec5ad76904)
-                                              **Dates**
-
+                                              
+**User Educational Info and Skills earned**
 ![Screenshot 2025-02-15 163531](https://github.com/user-attachments/assets/0340e969-7d33-487e-9215-e42d51ed6614)
-                                **User Educational Info and Skills earned**
+                                
 
 ## Contact
 For inquiries, reach out to me @jeremyasamoah123@gmail.com. 
