@@ -24,8 +24,9 @@ This report provides comprehensive insights into user participation and enrollme
 ## Data Sources and Methodology
 - **Data Sources:** [Excelerate Data](https://engage.4excelerate.org/mod/assign/view.php?id=20052)
 - **Analysis Tools:** Google Sheets, Power BI
-- **Datasets Used:** [Opportunity Data] https://docs.google.com/spreadsheets/d/1P3dnXnI5BMkyCgmHQrIKEzlM-NQW0HIQzHEn-q6OTQY/edit?usp=sharing, [User Data] https://docs.google.com/spreadsheets/d/1srVuN2re-WXXSHsvZmdSXHoKKDJl_djUsbqIOXBDvYA/edit?usp=drive_link 
-- **Dashboard Link:** [Dashboard] https://1drv.ms/u/c/0c31997b4c1e9f35/Eb0g3AzStGhIlqklpl1-65YB_IKrFn6sf9uqLSUVMpe6gQ?e=ERXoxM 
+- **Datasets Used:** <a href="https://docs.google.com/spreadsheets/d/1P3dnXnI5BMkyCgmHQrIKEzlM-NQW0HIQzHEn-q6OTQY/edit?usp=sharing">Opportunity Data</a>
+                     <a href="https://docs.google.com/spreadsheets/d/1srVuN2re-WXXSHsvZmdSXHoKKDJl_djUsbqIOXBDvYA/edit?usp=drive_link">User Data</a> 
+- **Dashboard Link:** <a href="https://1drv.ms/u/c/0c31997b4c1e9f35/Eb0g3AzStGhIlqklpl1-65YB_IKrFn6sf9uqLSUVMpe6gQ?e=ERXoxM">Dashboard</a> 
 
 ## Datasets Overview
 - **User Dataset:** 27,527 records with columns covering PreferredSponsors, Gender, Country, Degree, Sign Up Date and Time, City, isFromSocialMedia
