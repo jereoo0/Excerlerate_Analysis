@@ -33,12 +33,29 @@ This report provides comprehensive insights into user participation and enrollme
 
 ## Data Cleaning Process
 ### User Data
-- Removed duplicates and formatted date/time fields.
-- Standardized city names and corrected mismatched country data.
+- Remove duplicates using data clean up feature on google sheets. (No duplicates were found)
+- Corrected Sign up date column to date/time format and split date and time into separate columns
+- Deleted 36 rows of data, they were either null or empty and did not provide any information on demographics (Country, Gender, Degree, 
+  City and Zip code) All these accounts were either created on 29th November 2022 at 10:24 difference in seconds  or 14th December 2022 
+  at 8:42 difference in seconds. Isfromsocialmedia column was also blank.
+- Made corrections to misspelt city names which resulted in multiple occurrences of the same cities but different spellings. Also 
+  corrected instances where the user country was India but the city was Saint Louis which is in the United States (81 instances). There 
+  was also the occurrence of Hyderabad, a city in both India and Pakistan. Changed Hyderabad in Pakistan to Hyderabad (P) to create a 
+  distinction between the two cities in different countries. (30 instances)
+- Deleted zip code column because the data was too messy and the city column provided the same information.
+- Standardized columns to enusre consistence and clarity 
 
 ### Opportunity Data
-- Corrected date/time formats and removed duplicate records.
-- Corrected misspellings in city names and resolved country mismatches.
+- Remove duplicates using data clean up feature on google sheets. (No duplicates were found)
+- Corrected date/time column formats and split dates and time into separate columns. 
+- Deleted zip code column because the data was too messy and the city column provided the same information.
+- Made corrections to misspelt city names which resulted in multiple occurrences of the same cities with different spellings. Also 
+  corrected instances where the user country was India but the city was Saint louis which is in the United States (81 instances). There 
+  was also the occurrence of Hyderabad, a city in both India and Pakistan. Changed Hyderabad in Pakistan to Hyderabad (P) to create a 
+  distinction between the two cities in different countries. (30 instances) Changed instances where country was United states  but city  
+  Hyderabad  was which is a city in India (3 instances).
+  Standardized columns to enusre consistence and clarity 
+
 
 ## Key Questions Addressed
 - How many users have signed up and enrolled in opportunities?
@@ -55,20 +72,22 @@ This report provides comprehensive insights into user participation and enrollme
 - **Data Visualization** is the most enrolled opportunity (5,687 enrollments, 835 completions).
 - **India** leads in user sign-ups (11,927 users) and enrollments (9,135).
 - **Saint Louis, USA** has the highest city-level engagement (970 users, 2,671 enrollments).
-- **Majority of users (61% Male, 39% Female)** indicate a gender gap.
+- **Gender statistics** of user sign-ups (61.17% Male, 38.33% Female) and enrollment (Male 60.23%, Female 39.39%) indicate a gender gap.
 - **Graduate and undergraduate students** dominate the platform, with low engagement from high school students.
 - **Critical thinking skills** are the most gained skills.
+- **Social media reach** of the platform is nearly evenly split, 50.19% of users answered True to "isfromsocialmedia" while 49.81% answered false. Analysing social media reach by demographics reveals inconsistencies in the effectiveness of social media campaigns.
+- **Current/Intended major** of enrolled users reveals the the platform attracteds students in **STEM fields.** 
 
 ## Recommendations
 - **Increase female engagement** by tailoring opportunities with scholarships as incentives.
-- **Prioritize internships**, given their high demand.
-- **Expand social media campaigns** to increase reach and engagement.
-- **Strengthen outreach in high-performing regions** (Asia, Africa, North America).
-- **Develop programs for high school students** to boost their presence.
+- **Prioritize internships**, given their high demand. **Review engagement opportunities** due low user interaction.
+- **Expand social media campaigns globally** to increase reach and engagement on the platform.
+- **Increase social media campaigns in high-performing regions** (Asia, Africa, North America), to further increase the platforms presence in regions. 
+- **Review, tailor and market opprtunities to high school students** to boost their presence.
 - **Diversify offerings** to attract non-STEM students.
 
 ## Conclusion
-This analysis provides valuable insights into Excelerate’s user engagement and opportunity enrollment trends. Strategic actions such as improving gender diversity, expanding outreach, and refining content offerings will help maximize the platform's impact and future growth.
+This analysis provides valuable insights into Excelerate’s user engagement and opportunity enrollment trends. Strategic actions such as improving gender diversity, intensifying social media campaigns, and refining content offerings will help maximize the platform's impact and future growth.
 
 ![Screenshot 2025-02-15 195334](https://github.com/user-attachments/assets/1a9de1e6-750e-4cf1-bd54-700895ee5158)
 
