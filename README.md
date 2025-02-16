@@ -35,7 +35,7 @@ This report provides comprehensive insights into user participation and enrollme
 
 ## Data Cleaning Process
 ### User Data
-- Remove duplicates.(No duplicates were found)
+- Removed duplicates.
 - Corrected Sign up date column to date/time format and split date and time into separate columns
 - Deleted 36 rows of data, they were blank and did not provide any information on demographics (Country, Gender, Degree, 
   City) All these accounts were either created on 29th November 2022 at 10:24 difference in seconds  or 14th December 2022 
@@ -47,7 +47,7 @@ This report provides comprehensive insights into user participation and enrollme
 - Standardized columns to enusre consistence and clarity 
 
 ### Opportunity Data
-- Removed duplicates. (No duplicates were found)
+- Removed duplicates.
 - Corrected date/time column formats and split dates and time into separate columns. 
 - Made corrections to misspelt city names which resulted in multiple occurrences of the same cities with different spellings. Also 
   corrected instances where the user country was India but the city was Saint louis which is in the United States (81 instances). There 
