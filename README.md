@@ -35,28 +35,26 @@ This report provides comprehensive insights into user participation and enrollme
 
 ## Data Cleaning Process
 ### User Data
-- Remove duplicates using data clean up feature on google sheets. (No duplicates were found)
+- Remove duplicates.(No duplicates were found)
 - Corrected Sign up date column to date/time format and split date and time into separate columns
-- Deleted 36 rows of data, they were either null or empty and did not provide any information on demographics (Country, Gender, Degree, 
-  City and Zip code) All these accounts were either created on 29th November 2022 at 10:24 difference in seconds  or 14th December 2022 
+- Deleted 36 rows of data, they were blank and did not provide any information on demographics (Country, Gender, Degree, 
+  City) All these accounts were either created on 29th November 2022 at 10:24 difference in seconds  or 14th December 2022 
   at 8:42 difference in seconds. Isfromsocialmedia column was also blank.
 - Made corrections to misspelt city names which resulted in multiple occurrences of the same cities but different spellings. Also 
   corrected instances where the user country was India but the city was Saint Louis which is in the United States (81 instances). There 
   was also the occurrence of Hyderabad, a city in both India and Pakistan. Changed Hyderabad in Pakistan to Hyderabad (P) to create a 
   distinction between the two cities in different countries. (30 instances)
-- Deleted zip code column because the data was too messy and the city column provided the same information.
 - Standardized columns to enusre consistence and clarity 
 
 ### Opportunity Data
-- Remove duplicates using data clean up feature on google sheets. (No duplicates were found)
+- Removed duplicates. (No duplicates were found)
 - Corrected date/time column formats and split dates and time into separate columns. 
-- Deleted zip code column because the data was too messy and the city column provided the same information.
 - Made corrections to misspelt city names which resulted in multiple occurrences of the same cities with different spellings. Also 
   corrected instances where the user country was India but the city was Saint louis which is in the United States (81 instances). There 
   was also the occurrence of Hyderabad, a city in both India and Pakistan. Changed Hyderabad in Pakistan to Hyderabad (P) to create a 
   distinction between the two cities in different countries. (30 instances) Changed instances where country was United states  but city  
   Hyderabad  was which is a city in India (3 instances).
-  Standardized columns to enusre consistence and clarity 
+- Standardized columns to enusre consistence and clarity 
 
 
 ## Key Questions Addressed
