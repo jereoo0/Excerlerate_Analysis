@@ -88,8 +88,8 @@ This report provides comprehensive insights into user participation and enrollme
 
 ## Dashboard Pictures
 **Introduction to Excleterate User and Opportunity Analysis**
-![Screenshot 2025-02-15 195334](https://github.com/user-attachments/assets/1a9de1e6-750e-4cf1-bd54-700895ee5158)
-                      
+![Screenshot 2025-02-18 165314](https://github.com/user-attachments/assets/ffe2c743-6768-42ca-adfa-a5225e7cdece)
+                    
  **Opportunities by Demographics**
 ![Screenshot 2025-02-15 163425](https://github.com/user-attachments/assets/3cbbe0fe-9534-45c2-8c9c-10f53bf21c2f) 
 
