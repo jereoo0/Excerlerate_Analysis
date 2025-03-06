@@ -108,5 +108,5 @@ This analysis provides valuable insights into Excelerate’s user engagement and
 
 
 ## Contact
-For inquiries, reach out to me @jeremyasamoah123@gmail.com. 
+For inquiries, reach out to mejeremyasamoah123@gmail.com. 
 
