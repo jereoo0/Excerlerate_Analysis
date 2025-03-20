@@ -10,9 +10,9 @@ This report provides a comprehensive analysis of user participation and opportun
   - [User Data](#user-data)
   - [Opportunity Data](#opportunity-data)
 - [Key Questions Addressed](#key-questions-addressed)
+- [Dashboard](#Dashboard)
 - [Key Findings](#key-findings)
 - [Recommendations](#recommendations)
-- [Dashboard Pictures](#Dashboard-Pictures)
 - [Conclusion](#conclusion)
 - [Contact](#contact)
 
@@ -66,7 +66,7 @@ This report provides comprehensive insights into user participation and enrollme
 - How much scholarship funding has been awarded?
 
 
-## Dashboard Pictures
+## Dashboard
 **Introduction to Excleterate User and Opportunity Analysis**
 ![Screenshot 2025-02-18 165314](https://github.com/user-attachments/assets/ffe2c743-6768-42ca-adfa-a5225e7cdece)
                     
