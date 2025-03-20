@@ -65,6 +65,24 @@ This report provides comprehensive insights into user participation and enrollme
 - What are the most gained skills on Excelerate?
 - How much scholarship funding has been awarded?
 
+
+## Dashboard Pictures
+**Introduction to Excleterate User and Opportunity Analysis**
+![Screenshot 2025-02-18 165314](https://github.com/user-attachments/assets/ffe2c743-6768-42ca-adfa-a5225e7cdece)
+                    
+ **Opportunities by Demographics**
+![Screenshot 2025-02-15 163425](https://github.com/user-attachments/assets/3cbbe0fe-9534-45c2-8c9c-10f53bf21c2f) 
+
+ **Opportunities Analysis**                                
+![Screenshot 2025-02-15 163446](https://github.com/user-attachments/assets/4ab22404-b894-4b4c-a8a4-a9d09c30961a)
+                                     
+**Dates**
+![Screenshot 2025-02-15 163547](https://github.com/user-attachments/assets/831e07ef-4230-4bc3-938f-1fec5ad76904)
+                                              
+**User Educational Info and Skills earned**
+![Screenshot 2025-02-15 163531](https://github.com/user-attachments/assets/0340e969-7d33-487e-9215-e42d51ed6614)
+                                
+
 ## Key Findings
 - **27,526 users** signed up on the platform, with **11,481 enrolling** in opportunities.
 - **20,322 total enrollments**, primarily in **internships (15,360 enrollments).**
@@ -86,22 +104,6 @@ This report provides comprehensive insights into user participation and enrollme
 - **Review, tailor and market opprtunities to high school students** to boost their presence.
 - **Diversify offerings** to attract non-STEM students.
 
-## Dashboard Pictures
-**Introduction to Excleterate User and Opportunity Analysis**
-![Screenshot 2025-02-18 165314](https://github.com/user-attachments/assets/ffe2c743-6768-42ca-adfa-a5225e7cdece)
-                    
- **Opportunities by Demographics**
-![Screenshot 2025-02-15 163425](https://github.com/user-attachments/assets/3cbbe0fe-9534-45c2-8c9c-10f53bf21c2f) 
-
- **Opportunities Analysis**                                
-![Screenshot 2025-02-15 163446](https://github.com/user-attachments/assets/4ab22404-b894-4b4c-a8a4-a9d09c30961a)
-                                     
-**Dates**
-![Screenshot 2025-02-15 163547](https://github.com/user-attachments/assets/831e07ef-4230-4bc3-938f-1fec5ad76904)
-                                              
-**User Educational Info and Skills earned**
-![Screenshot 2025-02-15 163531](https://github.com/user-attachments/assets/0340e969-7d33-487e-9215-e42d51ed6614)
-                                
 
 ## Conclusion
 This analysis provides valuable insights into Excelerate’s user engagement and opportunity enrollment trends. Strategic actions such as improving gender diversity, intensifying social media campaigns, and refining content offerings will help maximize the platform's impact and future growth.
